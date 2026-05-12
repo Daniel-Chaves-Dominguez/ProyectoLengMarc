@@ -1,0 +1,104 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "year": 2015,
+      "studio": "CD Projekt Red",
+      "rating": 9.8,
+      "description": "A story-driven open world RPG following Geralt of Rivia.",
+      "image": "https://res.cloudinary.com/demo/image/upload/witcher3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Uncharted 4",
+      "genre": "Action Adventure",
+      "year": 2016,
+      "studio": "Naughty Dog",
+      "rating": 9.5,
+      "description": "Nathan Drake's final treasure-hunting adventure.",
+      "image": "https://res.cloudinary.com/demo/image/upload/uncharted4.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Last of Us Part II",
+      "genre": "Survival",
+      "year": 2020,
+      "studio": "Naughty Dog",
+      "rating": 9.7,
+      "description": "A brutal post-apocalyptic emotional journey.",
+      "image": "https://res.cloudinary.com/demo/image/upload/tlou2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bloodborne",
+      "genre": "Action RPG",
+      "year": 2015,
+      "studio": "FromSoftware",
+      "rating": 9.6,
+      "description": "A gothic horror action RPG with intense difficulty.",
+      "image": "https://res.cloudinary.com/demo/image/upload/bloodborne.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Assassin’s Creed Valhalla",
+        "genre": "Action RPG",
+        "year": 2020,
+        "studio": "Ubisoft",
+        "rating": 8.6,
+        "description": "Play as a Viking raider in medieval England.",
+        "image": "https://res.cloudinary.com/demo/image/upload/valhalla.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ghost of Tsushima",
+      "genre": "Action Adventure",
+      "year": 2020,
+      "studio": "Sucker Punch",
+      "rating": 9.4,
+      "description": "A samurai epic during the Mongol invasion.",
+      "image": "https://res.cloudinary.com/demo/image/upload/ghost.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Red Dead Redemption 2",
+      "genre": "Western",
+      "year": 2018,
+      "studio": "Rockstar Games",
+      "rating": 9.9,
+      "description": "A cinematic journey through the Wild West.",
+      "image": "https://res.cloudinary.com/demo/image/upload/rdr2.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Horizon Zero Dawn",
+      "genre": "Action RPG",
+      "year": 2017,
+      "studio": "Guerrilla Games",
+      "rating": 9.1,
+      "description": "Fight robotic creatures in a post-apocalyptic world.",
+      "image": "https://res.cloudinary.com/demo/image/upload/horizon.jpg"
+    },
+    {
+      "id": 9,
+      "title": "God of War",
+      "genre": "Action Adventure",
+      "year": 2018,
+      "studio": "Santa Monica Studio",
+      "rating": 9.8,
+      "description": "Kratos and Atreus travel through Norse mythology.",
+      "image": "https://res.cloudinary.com/demo/image/upload/godofwar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Elden Ring",
+      "genre": "Open World RPG",
+      "year": 2022,
+      "studio": "FromSoftware",
+      "rating": 9.9,
+      "description": "A massive open-world fantasy RPG.",
+      "image": "https://res.cloudinary.com/demo/image/upload/eldenring.jpg"
+    }
+  ]
+}
