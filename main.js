@@ -63,6 +63,8 @@ function renderGames(games) {
   data-bs-target="#gameModal"
   onclick="openModal(${game.id})"
 >
+  ${game.description}
+</p>
 
   <div class="mt-3 mb-3">
 
