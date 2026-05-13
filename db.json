@@ -8,7 +8,9 @@
       "studio": "CD Projekt Red",
       "rating": 9.8,
       "description": "A story-driven open world RPG following Geralt of Rivia.",
-      "image": "https://res.cloudinary.com/demo/image/upload/witcher3.jpg"
+      "longDescription": "A deep emotional story following Geralt through political wars, monsters and difficult moral decisions across a massive fantasy world.",
+      "price": 9.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778588636/the-witcher-3-wild-hunt-geralt-wallpaper_j5qkul.jpg"
     },
     {
       "id": 2,
@@ -18,17 +20,21 @@
       "studio": "Naughty Dog",
       "rating": 9.5,
       "description": "Nathan Drake's final treasure-hunting adventure.",
-      "image": "https://res.cloudinary.com/demo/image/upload/uncharted4.jpg"
+      "longDescription": "Nathan Drake returns from retirement for one final treasure hunt filled with dangerous enemies, breathtaking locations and emotional moments with his brother Sam.",
+      "price": 49.95,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778588915/imagen-uncharted4_v68nrv.jpg"
     },
     {
       "id": 3,
       "title": "The Last of Us Part II",
-      "genre": "Survival",
+      "genre": "Adventure",
       "year": 2020,
       "studio": "Naughty Dog",
       "rating": 9.7,
       "description": "A brutal post-apocalyptic emotional journey.",
-      "image": "https://res.cloudinary.com/demo/image/upload/tlou2.jpg"
+      "longDescription": "Ellie travels through a brutal post-pandemic America seeking revenge, while facing emotional trauma, violence and difficult moral consequences.",
+      "price": 64.95,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778589507/imagen-the-last-of-us_ch9ydf.jpg"
     },
     {
       "id": 4,
@@ -38,7 +44,9 @@
       "studio": "FromSoftware",
       "rating": 9.6,
       "description": "A gothic horror action RPG with intense difficulty.",
-      "image": "https://res.cloudinary.com/demo/image/upload/bloodborne.jpg"
+      "longDescription": "Players explore the cursed gothic city of Yharnam while battling terrifying creatures and uncovering cosmic horrors hidden beneath the city.",
+      "price": 27.95,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778589694/imagen-bloodborne_pvj64a.jpg"
     },
     {
         "id": 5,
@@ -48,7 +56,9 @@
         "studio": "Ubisoft",
         "rating": 8.6,
         "description": "Play as a Viking raider in medieval England.",
-        "image": "https://res.cloudinary.com/demo/image/upload/valhalla.jpg"
+        "longDescription": "Lead a Viking clan across England, build settlements and conquer territories while discovering ancient secrets and political alliances.",
+        "price": 39.99,
+        "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778589867/imagen-assassin-s-creed-valhalla_avt4g6.jpg"
     },
     {
       "id": 6,
@@ -58,17 +68,21 @@
       "studio": "Sucker Punch",
       "rating": 9.4,
       "description": "A samurai epic during the Mongol invasion.",
-      "image": "https://res.cloudinary.com/demo/image/upload/ghost.jpg"
+      "longDescription": "Samurai warrior Jin Sakai must abandon traditional combat methods and embrace stealth tactics to defend Tsushima Island from Mongol invaders.",
+      "price": 79.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778590081/imagen-ghost-of-tsushima_bxypnk.jpg"
     },
     {
       "id": 7,
       "title": "Red Dead Redemption 2",
-      "genre": "Western",
+      "genre": "Adventure",
       "year": 2018,
       "studio": "Rockstar Games",
       "rating": 9.9,
       "description": "A cinematic journey through the Wild West.",
-      "image": "https://res.cloudinary.com/demo/image/upload/rdr2.jpg"
+      "longDescription": "Arthur Morgan struggles to survive alongside the Van der Linde gang while the Wild West era slowly disappears under modern civilization.",
+      "price": 19.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778654565/imagen-red-dead-redemption-2_e4qqsz.jpg"
     },
     {
       "id": 8,
@@ -78,7 +92,9 @@
       "studio": "Guerrilla Games",
       "rating": 9.1,
       "description": "Fight robotic creatures in a post-apocalyptic world.",
-      "image": "https://res.cloudinary.com/demo/image/upload/horizon.jpg"
+      "longDescription": "Aloy explores a mysterious world dominated by robotic creatures while uncovering the secrets of humanity’s collapse.",
+      "price": 21.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778654673/imagen-horizon-zero-dawn_zfm9wx.jpg"
     },
     {
       "id": 9,
@@ -88,7 +104,9 @@
       "studio": "Santa Monica Studio",
       "rating": 9.8,
       "description": "Kratos and Atreus travel through Norse mythology.",
-      "image": "https://res.cloudinary.com/demo/image/upload/godofwar.jpg"
+      "longDescription": "Kratos and his son Atreus journey across the Nine Realms, facing gods and monsters while rebuilding their fractured relationship.",
+      "price": 19.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778654936/imagen-God-of-War-2018_ti1kqh.jpg"
     },
     {
       "id": 10,
@@ -98,7 +116,249 @@
       "studio": "FromSoftware",
       "rating": 9.9,
       "description": "A massive open-world fantasy RPG.",
-      "image": "https://res.cloudinary.com/demo/image/upload/eldenring.jpg"
-    }
+      "longDescription": "Explore the Lands Between in a massive fantasy adventure full of hidden dungeons, powerful bosses and mysterious lore.",
+      "price": 39.99,
+      "image": "https://res.cloudinary.com/duzljw2pp/image/upload/v1778655053/imagen-elden-ring_n1yt0s.jpg"
+    },
+    {
+  "id": 11,
+  "title": "Call of Duty: Modern Warfare III",
+  "genre": "Shooter",
+  "year": 2023,
+  "studio": "Infinity Ward",
+  "rating": 8.7,
+  "price": 79.99,
+  "description": "Fast-paced military FPS action.",
+  "longDescription": "Modern Warfare III continues the iconic Call of Duty franchise with intense military operations, cinematic storytelling and fast-paced multiplayer combat. Players face global threats across realistic battlefields using modern weapons, tactical gadgets and cooperative squad mechanics. The game features campaign missions, online multiplayer and zombie survival modes.",
+  "image": "https://res.cloudinary.com/demo/image/upload/codmw3.jpg"
+},
+{
+  "id": 12,
+  "title": "DOOM Eternal",
+  "genre": "Shooter",
+  "year": 2020,
+  "studio": "id Software",
+  "rating": 9.4,
+  "price": 39.99,
+  "description": "Brutal demon-slaying FPS combat.",
+  "longDescription": "DOOM Eternal delivers aggressive and ultra-fast combat where players control the Doom Slayer against massive demonic invasions across Earth and Hell. Combining powerful weapons, brutal executions and intense heavy metal energy, the game rewards movement, aggression and skillful gameplay in massive arenas full of chaos.",
+  "image": "https://res.cloudinary.com/demo/image/upload/doometernal.jpg"
+},
+{
+  "id": 13,
+  "title": "Battlefield 2042",
+  "genre": "Shooter",
+  "year": 2021,
+  "studio": "DICE",
+  "rating": 8.1,
+  "price": 29.99,
+  "description": "Large-scale futuristic warfare.",
+  "longDescription": "Battlefield 2042 focuses on massive online warfare with huge multiplayer battles involving vehicles, helicopters, tanks and destructive environments. Players fight across futuristic global conflicts while adapting to dynamic weather systems, tornadoes and constantly evolving battle situations.",
+  "image": "https://res.cloudinary.com/demo/image/upload/battlefield2042.jpg"
+},
+{
+  "id": 14,
+  "title": "Rainbow Six Siege",
+  "genre": "Shooter",
+  "year": 2015,
+  "studio": "Ubisoft",
+  "rating": 9.0,
+  "price": 19.99,
+  "description": "Tactical multiplayer shooter.",
+  "longDescription": "Rainbow Six Siege emphasizes strategy, teamwork and tactical gameplay in close-quarters combat situations. Players choose specialized operators with unique gadgets while attacking or defending highly destructible environments. Precision, communication and planning are essential for victory.",
+  "image": "https://res.cloudinary.com/demo/image/upload/r6siege.jpg"
+},
+{
+  "id": 15,
+  "title": "Cyberpunk 2077",
+  "genre": "Shooter",
+  "year": 2023,
+  "studio": "CD Projekt Red",
+  "rating": 9.2,
+  "price": 59.99,
+  "description": "Futuristic RPG shooter adventure.",
+  "longDescription": "Cyberpunk 2077 takes players to the massive futuristic metropolis of Night City where they play as mercenary V, navigating crime, corporations and cybernetic enhancements. The game combines open-world exploration, first-person shooting, RPG systems and branching storylines full of moral choices and unforgettable characters.",
+  "image": "https://res.cloudinary.com/demo/image/upload/cyberpunk2077.jpg"
+},
+{
+  "id": 16,
+  "title": "EA Sports FC 26",
+  "genre": "Sports",
+  "year": 2025,
+  "studio": "EA Sports",
+  "rating": 8.8,
+  "price": 79.99,
+  "description": "Modern football simulation.",
+  "longDescription": "EA Sports FC 26 delivers realistic football gameplay featuring licensed teams, stadiums and players from leagues around the world. Players can build dream squads, compete online, manage careers and experience dynamic match atmospheres with improved AI and realistic physics.",
+  "image": "https://res.cloudinary.com/demo/image/upload/fc25.jpg"
+},
+{
+  "id": 17,
+  "title": "NBA 2K26",
+  "genre": "Sports",
+  "year": 2025,
+  "studio": "Visual Concepts",
+  "rating": 8.9,
+  "price": 74.99,
+  "description": "Realistic basketball simulation.",
+  "longDescription": "NBA 2K26 recreates the intensity and realism of professional basketball with realistic player movement, detailed arenas and immersive gameplay systems. Players can build careers, manage franchises, compete online and experience cinematic moments inspired by real NBA broadcasts.",
+  "image": "https://res.cloudinary.com/demo/image/upload/nba2k25.jpg"
+},
+{
+  "id": 18,
+  "title": "WWE 2K24",
+  "genre": "Sports",
+  "year": 2024,
+  "studio": "Visual Concepts",
+  "rating": 8.4,
+  "price": 59.99,
+  "description": "Professional wrestling simulator.",
+  "longDescription": "WWE 2K24 celebrates decades of wrestling history with legendary superstars, cinematic entrances and intense ring action. Players can relive iconic WrestleMania moments, create custom wrestlers and dominate online or offline championships.",
+  "image": "https://res.cloudinary.com/demo/image/upload/wwe2k24.jpg"
+},
+{
+  "id": 19,
+  "title": "F1 24",
+  "genre": "Sports",
+  "year": 2024,
+  "studio": "Codemasters",
+  "rating": 8.7,
+  "price": 69.99,
+  "description": "Formula 1 racing simulation.",
+  "longDescription": "F1 24 delivers authentic Formula 1 racing with officially licensed teams, circuits and drivers. Players manage tire strategies, weather conditions and high-speed competition while climbing through career modes and online championships.",
+  "image": "https://res.cloudinary.com/demo/image/upload/f124.jpg"
+},
+{
+  "id": 20,
+  "title": "Tony Hawk's Pro Skater 1+2",
+  "genre": "Sports",
+  "year": 2020,
+  "studio": "Vicarious Visions",
+  "rating": 9.1,
+  "price": 39.99,
+  "description": "Arcade skateboarding action.",
+  "longDescription": "Tony Hawk's Pro Skater 1+2 remasters the legendary skateboarding classics with modern visuals, fluid gameplay and iconic soundtracks. Players perform massive trick combos, explore classic parks and challenge friends in multiplayer modes.",
+  "image": "https://res.cloudinary.com/demo/image/upload/tonyhawk.jpg"
+},
+{
+  "id": 21,
+  "title": "Forza Horizon 5",
+  "genre": "Racing",
+  "year": 2021,
+  "studio": "Playground Games",
+  "rating": 9.5,
+  "price": 59.99,
+  "description": "Open-world racing festival.",
+  "longDescription": "Forza Horizon 5 takes players to vibrant Mexico landscapes full of deserts, jungles and cities while participating in massive racing festivals. The game offers hundreds of customizable cars, online events and dynamic weather systems.",
+  "image": "https://res.cloudinary.com/demo/image/upload/forzahorizon5.jpg"
+},
+{
+  "id": 22,
+  "title": "Gran Turismo 7",
+  "genre": "Racing",
+  "year": 2022,
+  "studio": "Polyphony Digital",
+  "rating": 9.2,
+  "price": 69.99,
+  "description": "Realistic racing simulator.",
+  "longDescription": "Gran Turismo 7 combines realistic driving physics, legendary vehicles and detailed circuits to create one of the most authentic racing experiences available. Players collect cars, tune performance and compete in professional championships.",
+  "image": "https://res.cloudinary.com/demo/image/upload/granturismo7.jpg"
+},
+{
+  "id": 23,
+  "title": "Need for Speed Unbound",
+  "genre": "Racing",
+  "year": 2022,
+  "studio": "Criterion Games",
+  "rating": 8.5,
+  "price": 49.99,
+  "description": "Street racing with urban style.",
+  "longDescription": "Need for Speed Unbound combines intense illegal street racing with a unique urban art style inspired by graffiti culture and modern music. Players customize exotic vehicles, escape police chases and dominate underground racing competitions across a vibrant open-world city.",
+  "image": "https://res.cloudinary.com/demo/image/upload/nfsunbound.jpg"
+},
+{
+  "id": 24,
+  "title": "The Crew Motorfest",
+  "genre": "Racing",
+  "year": 2023,
+  "studio": "Ubisoft Ivory Tower",
+  "rating": 8.3,
+  "price": 59.99,
+  "description": "Massive open-world racing festival.",
+  "longDescription": "The Crew Motorfest offers a huge racing playground inspired by Hawaiian islands where players can drive supercars, motorcycles and off-road vehicles across festivals, online events and extreme challenges. The game focuses on freedom, customization and social multiplayer racing.",
+  "image": "https://res.cloudinary.com/demo/image/upload/crewmotorfest.jpg"
+},
+{
+  "id": 25,
+  "title": "Assetto Corsa Competizione",
+  "genre": "Racing",
+  "year": 2020,
+  "studio": "Kunos Simulazioni",
+  "rating": 9.0,
+  "price": 39.99,
+  "description": "Professional GT racing simulator.",
+  "longDescription": "Assetto Corsa Competizione delivers an ultra-realistic racing simulation experience focused on GT championships. Players must master tire temperatures, realistic weather conditions and precise driving physics while competing on officially licensed international circuits.",
+  "image": "https://res.cloudinary.com/demo/image/upload/assettocorsa.jpg"
+},
+{
+  "id": 26,
+  "title": "Resident Evil 4 Remake",
+  "genre": "Horror",
+  "year": 2023,
+  "studio": "Capcom",
+  "rating": 9.7,
+  "price": 69.99,
+  "description": "Survival horror masterpiece.",
+  "longDescription": "Leon S. Kennedy travels to a remote European village to rescue the president's daughter while facing terrifying infected villagers, cults and grotesque monsters. The remake modernizes the legendary survival horror classic with cinematic visuals and intense combat.",
+  "image": "https://res.cloudinary.com/demo/image/upload/re4remake.jpg"
+},
+{
+  "id": 27,
+  "title": "Silent Hill 2 Remake",
+  "genre": "Horror",
+  "year": 2024,
+  "studio": "Bloober Team",
+  "rating": 9.4,
+  "price": 69.99,
+  "description": "Psychological survival horror.",
+  "longDescription": "James Sunderland returns to the mysterious town of Silent Hill after receiving a disturbing letter from his deceased wife. The remake modernizes one of the most influential horror games ever made with terrifying visuals, psychological storytelling and deeply emotional themes.",
+  "image": "https://res.cloudinary.com/demo/image/upload/silenthill2.jpg"
+},
+{
+  "id": 28,
+  "title": "Dead Space Remake",
+  "genre": "Horror",
+  "year": 2023,
+  "studio": "Motive Studio",
+  "rating": 9.3,
+  "price": 59.99,
+  "description": "Sci-fi survival horror.",
+  "longDescription": "Engineer Isaac Clarke investigates the abandoned spaceship USG Ishimura only to discover horrifying necromorph creatures stalking the corridors. Dead Space Remake rebuilds the legendary horror experience with modern visuals, terrifying sound design and atmospheric sci-fi tension.",
+  "image": "https://res.cloudinary.com/demo/image/upload/deadspace.jpg"
+},
+{
+  "id": 29,
+  "title": "Alan Wake 2",
+  "genre": "Horror",
+  "year": 2023,
+  "studio": "Remedy Entertainment",
+  "rating": 9.5,
+  "price": 59.99,
+  "description": "Narrative psychological horror thriller.",
+  "longDescription": "Alan Wake 2 follows writer Alan Wake and FBI agent Saga Anderson through a disturbing supernatural mystery full of darkness, nightmares and reality-bending events. The game blends cinematic storytelling, survival horror gameplay and psychological terror into a deeply immersive experience.",
+  "image": "https://res.cloudinary.com/demo/image/upload/alanwake2.jpg"
+},
+{
+  "id": 30,
+  "title": "The Callisto Protocol",
+  "genre": "Horror",
+  "year": 2022,
+  "studio": "Striking Distance Studios",
+  "rating": 8.2,
+  "price": 39.99,
+  "description": "Sci-fi prison horror.",
+  "longDescription": "Set on Jupiter's moon Callisto, players must survive horrifying mutated creatures while escaping from a maximum-security prison consumed by chaos. The Callisto Protocol focuses on brutal melee combat, cinematic horror and terrifying atmosphere inspired by classic sci-fi horror films.",
+  "image": "https://res.cloudinary.com/demo/image/upload/callistoprotocol.jpg"
+}
   ]
 }
