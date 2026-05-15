@@ -82,7 +82,7 @@ function renderGames(games) {
 
         </div>
 <p class="gamePrice">
-    €${game.price}
+    ${game.price} €
   </p>
 
   <button
@@ -133,19 +133,24 @@ filterButtons.forEach(button => {
 
   button.addEventListener("click", () => {
 
-    const selectedGenre =
-      button.dataset.genre;
+  
+    filterButtons.forEach(btn =>
+      btn.classList.remove("activeButton")
+    );
+
+
+    button.classList.add("activeButton");
+
+    const selectedGenre = button.dataset.genre;
 
     if (selectedGenre === "All") {
-
       renderGames(allGames);
-
       return;
     }
 
     const filteredGames =
       allGames.filter(game =>
-        game.genre.includes(selectedGenre)
+        game.genre === selectedGenre
       );
 
     renderGames(filteredGames);
@@ -216,7 +221,7 @@ function updateCart() {
 
           <div>
             <h5>${game.title}</h5>
-            <p>€${game.price}</p>
+            <p>${game.price} €</p>
           </div>
 
         </div>
