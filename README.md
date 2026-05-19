@@ -5,8 +5,7 @@ The project showcases a collection of legendary and modern video games using dyn
 
 The website was built as a final front-end project focused on visual design, JavaScript logic, responsive layouts, and JSON Server integration.
 
-
-https://res.cloudinary.com/duzljw2pp/image/upload/v1779193724/Captura_de_pantalla_2026-05-19_142819_dmazqe.png
+![landing page](https://res.cloudinary.com/duzljw2pp/image/upload/v1779193724/Captura_de_pantalla_2026-05-19_142819_dmazqe.png)
 ---
 
 # 🚀 Features
@@ -58,10 +57,10 @@ A fully interactive shopping cart inspired by PS Store:
 - Purchase simulation button
 - Animated notification when adding games
 
-https://res.cloudinary.com/duzljw2pp/image/upload/v1779193853/Captura_de_pantalla_2026-05-19_143029_vrkn5a.png
+![shopping cart](https://res.cloudinary.com/duzljw2pp/image/upload/v1779193853/Captura_de_pantalla_2026-05-19_143029_vrkn5a.png)
 
+![notification](https://res.cloudinary.com/duzljw2pp/image/upload/v1779193913/Captura_de_pantalla_2026-05-19_143132_lab3hb.png)
 
-https://res.cloudinary.com/duzljw2pp/image/upload/v1779193913/Captura_de_pantalla_2026-05-19_143132_lab3hb.png
 ---
 
 ## 📖 Game Details Modal
