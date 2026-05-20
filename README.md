@@ -295,6 +295,14 @@ Some of the main challenges solved during the project:
 - UI consistency and color palette design
 
 ---
+
+## ✨ Extra Features
+- Custom gaming footer
+- Purchase simulation modal
+- Interactive notification system
+
+---
+
 # 🌐 Live Demo
 
 👉 Github Pages: https://daniel-chaves-dominguez.github.io/ProyectoLengMarc/
