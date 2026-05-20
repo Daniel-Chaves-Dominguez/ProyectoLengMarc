@@ -141,10 +141,11 @@ npx json-server --watch db.json
 ```bash
 project-folder/
 │
-├── index.html
-├── style.css
-├── main.js
+├── app.js
 ├── db.json
+├── index.html
+├── README.md
+├── style.css
 ```
 
 ---
