@@ -1,0 +1,11 @@
+{
+    "name": "Game Vault",
+    "version": "1.0.0",
+    "description": "Legendary story-driven games collection",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "^1.0.0-beta.15"
+    },
+    "author": "Daniel Chaves Domínguez",
+    "license": "ISC"
+}

@@ -59,7 +59,7 @@ A fully interactive shopping cart inspired by PS Store:
 
 ![shopping cart](https://res.cloudinary.com/duzljw2pp/image/upload/v1779193853/Captura_de_pantalla_2026-05-19_143029_vrkn5a.png)
 
-![notification](https://res.cloudinary.com/duzljw2pp/image/upload/v1779193913/Captura_de_pantalla_2026-05-19_143132_lab3hb.png)
+![notification](https://res.cloudinary.com/duzljw2pp/image/upload/v1779353447/Captura_de_pantalla_2026-05-21_104845_nho0my.png)
 
 ---
 
