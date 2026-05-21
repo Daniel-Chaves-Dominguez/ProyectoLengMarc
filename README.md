@@ -94,47 +94,39 @@ Clicking a game card opens a detailed modal containing:
 
 ---
 
-# 📡 JSON Server Setup
-
-Install JSON Server:
-
-```bash
-npm install -g json-server
-```
-
-Run the server:
-
-```bash
-npx json-server --watch db.json
-```
-
-The API will run on:
-
-```bash
-http://localhost:3000/games
-```
-
----
-
 # ▶️ Run The Project
 
-1. Clone the repository
+## 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY
+git clone https://github.com/Daniel-Chaves-Dominguez/ProyectoLengMarc.git
 ```
-
-2. Open the project folder
-
-3. Start JSON Server
-
-```bash
-npx json-server --watch db.json
-```
-
-4. Open the project using Live Server or localhost
 
 ---
+
+## 2. Open the project folder
+
+Open the folder using Visual Studio Code.
+
+---
+
+## 3. Start Live Server
+
+Right click on `index.html` and select:
+
+```text
+Open with Live Server
+```
+
+---
+
+## 4. Explore Game Vault
+
+The website will automatically load all game information from `db.json`.
+
+---
+
+
 
 # 📁 Project Structure
 
