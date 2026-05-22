@@ -110,7 +110,15 @@ Open the folder using Visual Studio Code.
 
 ---
 
-## 3. Start Live Server
+## 3. Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 4. Start Live Server
 
 Right click on `index.html` and select:
 
@@ -120,7 +128,7 @@ Open with Live Server
 
 ---
 
-## 4. Explore Game Vault
+## 5. Explore Game Vault
 
 The website will automatically load all game information from `db.json`.
 
@@ -131,16 +139,66 @@ The website will automatically load all game information from `db.json`.
 # 📁 Project Structure
 
 ```bash
-project-folder/
+GameVault/
 │
+├── index.html
+├── style.css
 ├── app.js
 ├── db.json
-├── index.html
+├── package.json
+├── package-lock.json
+├── .gitignore
 ├── README.md
-├── style.css
+│
+├── node_modules/
 ```
 
 ---
+
+# ⚙️ Dependencies
+
+This project uses:
+
+- JSON Server
+- Bootstrap 5
+- Google Fonts
+
+The dependency management was handled using **npm**.
+
+---
+
+# 📦 package.json
+
+A `package.json` file was added to define the project information and dependencies.
+
+```json
+{
+  "name": "Game Vault",
+  "version": "1.0.0",
+  "description": "Legendary story-driven games collection",
+  "main": "index.html",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  },
+  "author": "Daniel Chaves Domínguez",
+  "license": "ISC"
+}
+```
+
+---
+
+# 🚫 .gitignore
+
+The project includes a `.gitignore` file to prevent unnecessary files from being uploaded to GitHub.
+
+```gitignore
+node_modules/
+```
+
+This keeps the repository cleaner and lighter.
+
+---
+
 
 # 🎮 Included Games
 
